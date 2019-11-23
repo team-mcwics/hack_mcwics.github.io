@@ -1085,7 +1085,7 @@ textarea.input {
     position: relative;
 	color: #FFFFFF;
     top: 50%;  
-    width: 15em;
+    width: 12em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,1);
     font-size: 180%;
@@ -1102,7 +1102,7 @@ textarea.input {
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 15em;}
+  to{width: 12em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: rgba(255,255,255,1);}
