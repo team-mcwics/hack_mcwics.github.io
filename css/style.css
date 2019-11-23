@@ -1083,6 +1083,7 @@ textarea.input {
 /* Typing */
 .line-1{
     position: relative;
+	color: #FFFFFF;
     top: 50%;  
     width: 15em;
     margin: 0 auto;
