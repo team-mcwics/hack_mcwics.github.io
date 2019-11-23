@@ -1081,7 +1081,7 @@ textarea.input {
 }
 
 /* Typing */
-.typerwriter{
+.line-1{
     position: relative;
     top: 50%;  
     width: 24em;
