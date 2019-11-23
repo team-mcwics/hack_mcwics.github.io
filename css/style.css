@@ -689,7 +689,7 @@ textarea.input {
 }
 
 .event:last-child:after {
-  height: 30px;
+  height: 60px;
 }
 
 .event+.event:before {
@@ -716,7 +716,7 @@ textarea.input {
 .event .event-hour {
   position: absolute;
   left: 62px;
-  top: 60px;
+  top: 30px;
   width: 30px;
   height: 30px;
   border-radius: 50%;
